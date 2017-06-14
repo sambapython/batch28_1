@@ -1,0 +1,14 @@
+(dp0
+S'host'
+p1
+S'localhost'
+p2
+sS'password'
+p3
+S'pwd1'
+p4
+sS'user'
+p5
+S'u1'
+p6
+s.
