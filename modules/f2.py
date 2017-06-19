@@ -24,6 +24,24 @@ sys.path.insert(0,'/home/tcloudost/Desktop')
 print sys.path
 import f4
 '''
+'''
 import f4
 print f4.fun()
 print f4.fun1()
+'''
+'''
+import module1
+print module1.file1.fun()
+'''
+'''
+from module1 import file1,file2
+print file1.fun()
+print file1.fun1()
+print file2.fun()
+print file2.fun1()
+'''
+import module1
+print module1.file1.fun()
+print module1.file1.fun1()
+print module1.file2.fun()
+print module1.file2.fun1()
