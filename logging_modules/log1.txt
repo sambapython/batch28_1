@@ -1,0 +1,18 @@
+INFO:root:info statements
+DEBUG:root:debug statements
+WARNING:root:warning statement
+ERROR:root:exception statements
+None
+ERROR:root:Error statement
+INFO:root:info statements
+DEBUG:root:debug statements
+WARNING:root:warning statement
+ERROR:root:exception statements
+None
+ERROR:root:Error statement
+2017-06-23 08:41:37,591->INFO>>>>>>>>>info statements
+2017-06-23 08:41:37,597->DEBUG>>>>>>>>>debug statements
+2017-06-23 08:41:37,597->WARNING>>>>>>>>>warning statement
+2017-06-23 08:41:37,598->ERROR>>>>>>>>>exception statements
+None
+2017-06-23 08:41:37,599->ERROR>>>>>>>>>Error statement
